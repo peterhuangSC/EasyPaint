@@ -66,7 +66,7 @@ set CMD_LINE_ARGS=%*
 set CLASSPATH=%APP_HOME%\lib\a2.jar
 
 @rem Execute a2
-"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %A2_OPTS%  -classpath "%CLASSPATH%" EasyPaint %CMD_LINE_ARGS%
+"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %A2_OPTS%  -classpath "%CLASSPATH%" Main.EasyPaint %CMD_LINE_ARGS%
 
 :end
 @rem End local scope for the variables with windows NT shell

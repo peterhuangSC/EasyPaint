@@ -1,1 +1,9 @@
-# EasyPaint
+Welcome to the EasyPaint app! (CS349 A2)
+
+To get started, the main file (with the main method) is EasyPaint.java.
+
+You can use gradle clean, gradle build, gradle run on this project
+
+AppScreen is the main JPanel for the whole EasyPaint application, and the sub panels are divided
+into its respective classes within the Main.Screens folder. Each drawn shape on the screen is also
+an object, and each of the objects are defined in its respective class in Main.CanvasShapes.
