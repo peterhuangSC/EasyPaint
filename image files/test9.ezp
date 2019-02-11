@@ -1,0 +1,7 @@
+Easy Paint by Peter Huang
+CanvasLine| 200| 139| 297| 516| 0| 0| 27| -16776961| false
+CanvasOval| 308| 90| 682| 448| 374| 358| 27| -65536| false
+CanvasOval| 308| 90| 682| 448| 374| 358| 27| -256| true
+CanvasLine| 481| 239| 68| 397| 0| 0| 1| -16777216| false
+CanvasLine| 229| 486| 490| 329| 0| 0| 1| -16777216| false
+end
